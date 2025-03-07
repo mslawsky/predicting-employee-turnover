@@ -26,7 +26,7 @@ Our models identified different primary drivers of employee turnover:
 
 The Random Forest feature importance rankings reveal a clear hierarchy of turnover factors:
 
-![Feature Importance](top-10-features-by-importance.png)
+![Feature Importance](features-by-importance.png)
 
 ### Key Turnover Factors Identified by Random Forest
 
@@ -51,7 +51,7 @@ Our analysis across models identified key turnover thresholds:
 
 The scatter plot reveals distinct employee clusters at high risk of leaving:
 
-![Satisfaction vs Evaluation](satisfaction-level-vs-last-evaluation.png)
+![Satisfaction vs Evaluation](satisfaction-vs-last-eval.png)
 
 ---
 
